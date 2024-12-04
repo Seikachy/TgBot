@@ -38,7 +38,9 @@ pip install -r requirements.txt
 Запустите бота с помощью команды:
 
 python bot.py
+
 Используемые библиотеки
+
 aiogram: Для создания Telegram-бота и обработки сообщений.
 
 logging: Для логирования работы бота.
